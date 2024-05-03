@@ -7,7 +7,7 @@
 </div>
 
 This is a fork of the `@notionhq/client` package. The only difference is that it uses the standard web fetch instead of `node-fetch`.
-As long as this pull request is open, I will keep it in-sync with `@notionhq/client`.
+As long as [this pull request](https://github.com/makenotion/notion-sdk-js/pull/506) is open, I will keep it in-sync with `@notionhq/client`.
 
 ## Installation
 
