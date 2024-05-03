@@ -6,13 +6,13 @@
 	<br>
 </div>
 
-![Build status](https://github.com/makenotion/notion-sdk-js/actions/workflows/ci.yml/badge.svg)
-[![npm version](https://badge.fury.io/js/%40notionhq%2Fclient.svg)](https://www.npmjs.com/package/@notionhq/client)
+This is a fork of the `@notionhq/client` package. The only difference is that it uses the standard web fetch instead of `node-fetch`.
+As long as this pull request is open, I will keep it in-sync with `@notionhq/client`.
 
 ## Installation
 
 ```
-npm install @notionhq/client
+npm install notion-client-web-fetch
 ```
 
 ## Usage
